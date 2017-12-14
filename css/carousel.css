@@ -33,6 +33,9 @@ p {
 	font-size: 12px;
 }
 h6 {
-	font-size: 120px;
+	
 	color: blue;
+}
+h2 a {
+	font-size: 15px;
 }
