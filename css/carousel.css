@@ -32,10 +32,16 @@ p {
 	text-align: justify;
 	font-size: 12px;
 }
+<<<<<<< HEAD
 h3 {
 	text-align: center;
 	font-size: 130%;
 	color: green;
+=======
+h6 {
+	
+	color: blue;
+>>>>>>> d08b2e794e692783957cb19ad0619ecaadc8a459
 }
 h2 a {
 	font-size: 15px;
