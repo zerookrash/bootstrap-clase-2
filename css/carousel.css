@@ -1,4 +1,3 @@
-
 /* equal card height */
 .row-equal > div[class*='col-'] {
     display: flex;
