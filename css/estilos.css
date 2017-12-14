@@ -1,0 +1,36 @@
+body{
+    background: #e9ebee;
+    font-family: 'IM Fell Great Primer', serif;
+}
+
+a{
+    color: #1176b6;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+/* -- -- trabajamos con el HEADER -- */
+header{
+    background: #1176b6;
+    padding: 10px 0;
+}
+
+/*  --  LOGO -- */
+header .logo img{
+    height: 22px;
+}
+
+/* -- BARRA DE BÚSQUEDA --*/
+header .buscar form input[type="text"]{
+    width: 100;
+    background: white; /*#fff*/
+    border: none;
+    font-size: 12px;
+    padding: 0 10px; /*10 a los lados*/
+    height: 25px;
+    line-height: 25px;  /*altura del texto que tenemos dentro*/
+    border-radius: 3px 0 0 3px;     /*3 y 3 arriba a la izq y abajo izq*/
+    font-family: 'IM Fell Great Primer', serif;
+}
